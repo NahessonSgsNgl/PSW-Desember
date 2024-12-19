@@ -1,0 +1,230 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: white;
+  position: relative;
+  padding-top: 50px;
+  background:  linear-gradient(to right, rgb(188, 237, 188), rgb(238, 231, 231),rgb(188, 244, 188)) ;
+}
+
+.register-box {
+  background: url('/public/form.jpg') no-repeat center center/cover; 
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 90%; 
+  text-align: center;
+  background-color: white; 
+  margin-top: 10px;
+  padding:1.5rem 2.5rem; ;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  filter: drop-shadow(0 0 15px rgba(103, 160, 135, 0.7));
+  animation: glowing 4s infinite;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  background-color: #ddd;
+}
+
+.subtitle-container {
+  text-align: center; 
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+.error-message {
+  color: #e74c3c;
+  margin-bottom: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  text-align: left;
+  width: 100%;
+}
+
+.form-group label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+  color: white;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 0.8rem;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  background-color: #ded4d4;
+}
+
+button {
+  width: 100%;
+  padding: 0.8rem;
+  background: linear-gradient(45deg, #103027b0, #66cb9f);
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(45deg, #2dc5bb, #86dbc2);
+}
+
+.register-link-container {
+  background-color: rgba(255, 255, 255, 0.5); 
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border-radius: 10px;
+}
+
+.register-link {
+  color: #2a6227;
+  font-weight: bold;
+}
+
+.register-link a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.register-b
+.register-link a:hover {
+  text-decoration: underline;
+  color: #2a6227;
+}
+
+@keyframes glowing {
+  0% {
+    box-shadow: 0 0 5px rgba(66, 245, 164, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(66, 245, 164, 1);
+  }
+  100% {
+    box-shadow: 0 0 5px rgba(66, 245, 164, 0.5);
+  }
+}
+@media (max-width: 768px) {
+  .register-box {
+    padding: 1.5rem;
+    max-width: 90%;
+    animation: none; 
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .subtitle-container {
+    padding: 0.8rem;
+    font-size: 1.2rem;
+  }
+
+  .form-group input {
+    font-size: 0.9rem;
+  }
+
+  button {
+    font-size: 0.9rem;
+    padding: 0.7rem;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .register-box {
+    padding: 1rem;
+    max-width: 95%;
+  }
+
+  h1 {
+    font-size: 1.2rem;
+  }
+
+  .subtitle-container {
+    font-size: 1rem;
+  }
+
+  .form-group label {
+    font-size: 0.9rem;
+  }
+
+  .form-group input {
+    font-size: 0.8rem;
+    padding: 0.7rem;
+  }
+
+  button {
+    font-size: 0.8rem;
+    padding: 0.6rem;
+  }
+
+  .register-link-container {
+    font-size: 0.9rem;
+    padding: 0.8rem;
+  }
+}
+.register-box h1 {
+  font-size: 2.5rem; 
+  font-weight: bold; 
+  text-align: center; 
+  color:black; 
+  text-transform: uppercase; 
+  letter-spacing: 3px; 
+  margin-bottom: 20px; 
+}
+.tooltip-warning {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 14px;
+  color: #856404;
+  background-color: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.tooltip-warning:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 10px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: transparent transparent #fff3cd transparent;
+}
+
+.register-link-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.register-link-container p {
+  font-size: 14px;
+  color: #343a40;
+}
+
+
+.register-link a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.register-link a:hover {
+  text-decoration: underline;
+  color: #0056b3; 
+}
+
+

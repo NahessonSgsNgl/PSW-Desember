@@ -1,0 +1,162 @@
+/* Container untuk section utama */
+.featured-section {
+  background-image: url('/public/hijau.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
+  min-height: 100vh;
+}
+
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Judul utama */
+.featured-section h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #eafbf7;
+  margin: 4rem 0 4rem 0;
+  outline: none; 
+  border: none;
+
+}
+
+/* Grid untuk kartu */
+.featured-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Responsif */
+}
+
+/* Kartu utama */
+.featured-card {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);/* Efek bayangan */
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover pada kartu */
+.featured-card:hover {
+  transform: translateY(-10px); /* Efek melayang */
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2); /* Bayangan lebih tajam */
+}
+
+/* Gambar di dalam kartu */
+.featured-image {
+  position: relative;
+  height: 230px; 
+  overflow: hidden;
+}
+
+
+.featured-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Agar gambar sesuai ukuran */
+  transition: transform 0.3s ease;
+}
+ 
+/* Efek hover pada gambar */
+.featured-image img:hover {
+  transform: scale(1.1); /* Zoom in */
+}
+
+
+/* Konten dalam kartu */
+.featured-content {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+/* Judul dalam konten */
+.featured-content h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.8rem;
+  color: #2c3e50;
+}
+
+/* Deskripsi dalam konten */
+.featured-content p {
+  font-family: 'Poppins', sans-serif; 
+  font-size: 1rem; 
+  color: #7f8c8d;
+  margin-bottom: 1.5rem;
+  text-align: center; 
+  line-height: 1.6; 
+}
+
+.explore-btn {
+  background: linear-gradient(90deg, #72dfac, #2f981c); 
+  color: white;
+  border: none;
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.explore-btn:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 5px 15px rgba(38, 117, 252, 0.5);
+}
+
+
+@media (max-width: 768px) {
+  .featured-section h2 {
+    font-size: 2rem; 
+    margin: 2rem 0;
+  }
+
+  .featured-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 1rem; 
+  }
+
+  .featured-card {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+  }
+
+  .featured-image {
+    height: 180px; 
+  }
+
+  .featured-content h3 {
+    font-size: 1.2rem; 
+  }
+
+  .featured-content p {
+    font-size: 0.9rem; 
+  }
+
+  .explore-btn {
+    font-size: 0.9rem; 
+    padding: 0.6rem 1.5rem;
+  }
+}
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .featured-section h2 {
+    font-size: 2.5rem;
+  }
+
+  .featured-grid {
+    gap: 1.5rem;
+  }
+
+  .featured-content h3 {
+    font-size: 1.4rem;
+  }
+
+  .featured-content p {
+    font-size: 1rem;
+  }
+}
