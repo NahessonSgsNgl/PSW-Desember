@@ -11,65 +11,114 @@ const LatihanSoal = () => {
 
   const questions = [
     {
-      question: "Apa yang dimaksud dengan transportasi zat dalam tubuh manusia?",
+      question: "Apa yang dimaksud dengan pautan (linkage)?",
       options: [
-        { label: "A. Proses pencernaan makanan", value: "A" },
-        {
-          label: "B. Proses pengangkutan zat-zat penting ke seluruh tubuh",
-          value: "B",
-          isCorrect: true,
-        },
-        { label: "C. Proses penyerapan nutrisi di usus", value: "C" },
-        { label: "D. Proses ekskresi zat sisa", value: "D" },
+        { label: "A. Proses pertukaran gen antar kromosom homolog", value: "A" },
+        { label: "B. Keadaan di mana gen-gen berada dalam satu kromosom", value: "B", isCorrect: true },
+        { label: "C. Penentuan jenis kelamin berdasarkan kromosom X", value: "C" },
+        { label: "D. Kejadian gagal berpisah kromosom saat meiosis", value: "D" },
       ],
       explanation:
-        "Transportasi zat dalam tubuh manusia adalah proses pengangkutan zat-zat penting seperti oksigen, nutrisi, dan hormon ke seluruh bagian tubuh melalui sistem peredaran darah.",
+        "Pautan adalah keadaan di mana terdapat banyak gen dalam satu kromosom, sehingga mereka cenderung diwariskan bersama.",
     },
     {
-      question: "Apa fungsi utama hemoglobin dalam darah?",
+      question: "Apa yang terjadi pada genotip AaBb saat terjadi pautan?",
       options: [
-        { label: "A. Mengangkut karbon dioksida", value: "A" },
-        { label: "B. Mengangkut oksigen", value: "B", isCorrect: true },
-        { label: "C. Mengatur pH darah", value: "C" },
-        { label: "D. Memproduksi sel darah merah", value: "D" },
+        { label: "A. Gamet yang terbentuk adalah 4 macam", value: "A" },
+        { label: "B. Gamet yang terbentuk adalah 2 macam", value: "B", isCorrect: true },
+        { label: "C. Hasil test cross adalah 1:1:1:1", value: "C" },
+        { label: "D. Gamet terbentuk secara acak", value: "D" },
       ],
       explanation:
-        "Hemoglobin adalah protein yang terdapat dalam sel darah merah dan berfungsi utama untuk mengangkut oksigen dari paru-paru ke seluruh tubuh.",
+        "Pada genotip AaBb yang mengalami pautan, gamet yang terbentuk hanya 2 macam, yaitu AB dan ab.",
     },
     {
-      question:
-        "Di mana proses pertukaran gas (oksigen dan karbon dioksida) terjadi dalam tubuh manusia?",
+      question: "Apa yang dimaksud dengan pindah silang (crossing over)?",
       options: [
-        { label: "A. Di jantung", value: "A" },
-        { label: "B. Di paru-paru", value: "B", isCorrect: true },
-        { label: "C. Di hati", value: "C" },
-        { label: "D. Di ginjal", value: "D" },
+        { label: "A. Proses kromosom homolog saling melilit dan bertukar gen", value: "A", isCorrect: true },
+        { label: "B. Penyatuan kromosom homolog saat meiosis", value: "B" },
+        { label: "C. Kejadian gagal berpisah kromosom saat meiosis", value: "C" },
+        { label: "D. Pembentukan gamet yang tidak seimbang", value: "D" },
       ],
       explanation:
-        "Proses pertukaran gas terjadi di paru-paru, tepatnya di alveolus, di mana oksigen dari udara masuk ke dalam darah dan karbon dioksida dikeluarkan dari darah ke udara.",
+        "Pindah silang adalah peristiwa pertukaran gen karena kromosom homolog saling melilit saat meiosis.",
     },
     {
-      question: "Zat apa yang diangkut oleh sistem limfatik?",
+      question: "Apa yang dimaksud dengan konsep pewarisan sifat menyilang (criss cross inheritance)?",
       options: [
-        { label: "A. Hormon", value: "A" },
-        { label: "B. Oksigen", value: "B" },
-        { label: "C. Lemak dan limfa", value: "C", isCorrect: true },
-        { label: "D. Karbon dioksida", value: "D" },
+        { label: "A. Pewarisan sifat melalui kromosom autosom", value: "A" },
+        { label: "B. Pewarisan sifat melalui kromosom sex dari induk yang berbeda", value: "B", isCorrect: true },
+        { label: "C. Pewarisan sifat melalui gen dominan", value: "C" },
+        { label: "D. Pewarisan sifat melalui mutasi gen", value: "D" },
       ],
       explanation:
-        "Sistem limfatik berfungsi untuk mengangkut lemak yang diserap dari usus serta limfa, yang mengandung sel-sel imun, dari jaringan tubuh kembali ke aliran darah.",
+        "Criss cross inheritance adalah pewarisan sifat di mana kromosom X dari induk betina diwariskan ke anak jantan, dan kromosom X dari induk jantan diwariskan ke anak betina.",
     },
     {
-      question:
-        "Apa yang terjadi pada sel-sel tubuh saat kekurangan oksigen?",
+      question: "Apa dampak dari kejadian gagal berpisah (non disjunction)?",
       options: [
-        { label: "A. Sel-sel akan membelah lebih cepat", value: "A" },
-        { label: "B. Sel-sel akan mengalami kematian", value: "B", isCorrect: true },
-        { label: "C. Sel-sel akan berfungsi lebih efisien", value: "C" },
-        { label: "D. Sel-sel akan menghasilkan energi melalui respirasi aerob", value: "D" },
+        { label: "A. Semua kromosom homolog memisah sempurna", value: "A" },
+        { label: "B. Terbentuknya gamet dengan jumlah kromosom lebih atau kurang", value: "B", isCorrect: true },
+        { label: "C. Pertukaran gen secara acak", value: "C" },
+        { label: "D. Pembentukan gamet yang seimbang", value: "D" },
       ],
       explanation:
-        "Kekurangan oksigen pada sel-sel tubuh dapat menyebabkan gangguan fungsi sel dan akhirnya kematian sel, karena sel tidak dapat melakukan respirasi aerob yang diperlukan untuk menghasilkan energi.",
+        "Non disjunction menyebabkan kegagalan kromosom homolog memisahkan diri saat meiosis, menghasilkan gamet dengan jumlah kromosom abnormal.",
+    },
+    {
+      question: "Apa yang menjadi dasar determinasi sex pada Drosophila melanogaster?",
+      options: [
+        { label: "A. Rasio antara jumlah kromosom X dan pasangan autosom", value: "A", isCorrect: true },
+        { label: "B. Rasio antara jumlah kromosom Y dan pasangan autosom", value: "B" },
+        { label: "C. Dominasi kromosom Y", value: "C" },
+        { label: "D. Kombinasi gen resesif", value: "D" },
+      ],
+      explanation:
+        "Pada Drosophila, penentuan jenis kelamin didasarkan pada rasio antara jumlah kromosom X dan pasangan autosom.",
+    },
+    {
+      question: "Apa yang dimaksud dengan gen lethal dominan?",
+      options: [
+        { label: "A. Gen yang menyebabkan kematian dalam keadaan homozigot dominan", value: "A", isCorrect: true },
+        { label: "B. Gen yang menyebabkan kematian dalam keadaan homozigot resesif", value: "B" },
+        { label: "C. Gen yang tidak mempengaruhi kelangsungan hidup", value: "C" },
+        { label: "D. Gen yang memodifikasi gen lain", value: "D" },
+      ],
+      explanation:
+        "Gen lethal dominan adalah gen yang menyebabkan kematian individu jika dalam keadaan homozigot dominan.",
+    },
+    {
+      question: "Apa perbedaan antara epistasis dan hipostasis?",
+      options: [
+        { label: "A. Epistasis adalah gen yang ditutupi, hipostasis adalah gen yang menutupi", value: "A" },
+        { label: "B. Epistasis adalah gen yang menutupi, hipostasis adalah gen yang ditutupi", value: "B", isCorrect: true },
+        { label: "C. Keduanya adalah gen yang menutupi", value: "C" },
+        { label: "D. Keduanya adalah gen yang ditutupi", value: "D" },
+      ],
+      explanation:
+        "Epistasis adalah gen yang menutupi ekspresi gen lain, sedangkan hipostasis adalah gen yang ekspresinya ditutupi.",
+    },
+    {
+      question: "Apa yang dimaksud dengan poligen?",
+      options: [
+        { label: "A. Pewarisan sifat yang dikendalikan oleh satu gen", value: "A" },
+        { label: "B. Pewarisan sifat yang melibatkan banyak gen", value: "B", isCorrect: true },
+        { label: "C. Pewarisan sifat yang terjadi pada kromosom sex", value: "C" },
+        { label: "D. Pewarisan sifat yang terjadi melalui mutasi gen", value: "D" },
+      ],
+      explanation:
+        "Poligen adalah pewarisan sifat yang melibatkan banyak gen dengan efek aditif, seperti tinggi badan dan warna kulit.",
+    },
+    {
+      question: "Bagaimana rasio fenotip dari persilangan tikus kuning dengan genotip Kk x Kk?",
+      options: [
+        { label: "A. 1:1", value: "A" },
+        { label: "B. 2:1", value: "B", isCorrect: true },
+        { label: "C. 3:1", value: "C" },
+        { label: "D. 1:2:1", value: "D" },
+      ],
+      explanation:
+        "Rasio fenotip hidup adalah 2 tikus kuning: 1 tikus normal karena tikus homozigot dominan (KK) mengalami kematian.",
     },
   ];
 
