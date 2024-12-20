@@ -7,151 +7,187 @@ const Bab5 = () => {
   return (
     <div className="bab4-container">
       
-      <h1>Bab 5: Sistem Pertahanan Tubuh terhadap Penyakit</h1>
+      <h1>Bab 5: Pembelahan Sel dan Pewarisan Sifat</h1>
       <section>
       <p>
-        Tubuh manusia memiliki berbagai mekanisme pertahanan diri dalam mengatasi potensi penyakit termasuk infeksi mikroorganisme. Mikroorganisme yang dapat menimbulkan penyakit dikenal sebagai patogen. Mekanisme pertahanan tubuh tersebut ada yang ditujukan untuk mencegah masuknya patogen ke dalam jaringan tubuh, disebut sebagai pertahanan eksternal. Selain itu, ada juga mekanisme pertahanan yang ditujukan untuk mengatasi infeksi patogen yang sudah terlanjur masuk ke dalam jaringan tubuh, yang disebut sebagai pertahanan internal. Pertahanan eksternal dan internal tubuh ini dapat bersifat bawaan (innate) dan selalu bersiap siaga mengantisipasi munculnya potensi penyakit, bahkan walau tidak terjadi infeksi. Di sisi lain, juga terdapat mekanisme pertahanan internal yang bersifat adaptif, yang secara spesifik hanya aktif ketika terjadi infeksi saja.
+      Pembelahan sel dan pewarisan sifat adalah proses biologis yang memungkinkan organisme hidup tumbuh, berkembang, memperbaiki jaringan, dan mewariskan informasi genetik kepada keturunannya. Berikut adalah penjelasan mendalam tentang kedua konsep tersebut:
       </p>
 
-      <h2>A. Sistem Pertahanan Eksternal dan Internal</h2>
-      <h2>1. Pertahanan Eksternal Nonspesifik</h2>
+      <h2>A. Pembelahan Sel</h2>
+      <p>
+      Pembelahan sel merupakan suatu proses reproduksi sel gunamemperbanyak jumlah sel dan mempermudah fungsi dari sel itusendiri. #ilihat dari prosesnya pembelahan sel dibagi atas dua yaitu :
+      </p>
    
-        <h3>a. Pertahanan fisik</h3>
+        <h3>1. Pembelahan Mitosis</h3>
         <p>
-          Adanya lapisan pelindung permukaan tubuh yang membatasi dengan lingkungan luar. Jaringan epitel yang melapisi saluran pernapasan, pencernaan dan organ lainnya adalah penghalang fisik yang efektif untuk mencegah atau meminimalisasi masuknya patogen.
+        Mitosis adalah cara reproduksi sel dimana sel membelah melalui tahap-tahap yang teratur, yaitu Profase Metafase-Anafase-Telofase. Antara tahap telofase ke tahap profase berikutnya terdapat masa istirahat sel yang dinarnakan Interfase (tahap ini tidak termasuk tahap pembelahan sel). Pada tahap interfase inti sel melakukan sintesis bahan-bahan inti.
+        </p>
+        <img src="bab5.1.jpg" alt="mitosis" className="section-image" />
+        <p>
+        Mitosis terdiri atas 4 fase yang terjadi secara berurutan  yaitu: 
+        <p>
+        1. Profase Memasuki profase kromatin mengalami kondensasi membentuk kromosom. Kromosom cepat memendek dan menjadi lebih tebal. Tiap kromosom terdiri atas 2 kromatid yang dihubungkan oleh sebuah sentromer. Nukleolus dan membran inti menghilang. Akhir profase terbentuklah spindel
+        </p>
+        <p>
+        2. Metafase Kedua kromatid dalam satu kromosom (sering disebut kromatid kakak beradik) masih dihubungkan oleh satu sentromer dan terletak di bidang ekuator sel. kromosom berada ditengah bidang equator. 
+        </p>
+        <p>
+        3. Anafase Kedua kromatid memisahkan diri dan masing - masing bergerak sebagai kromosom anakan menuju kutub dari spindel yang berlawanan letaknya. Proses ini didahului oleh membelahnya sentromer menjadi dua bagian. Fase ini menyelesaikan pembagian jumlah kromosom secara kuantitatif sama ke dalam sel anakan. Kecuali itu juga berlangsung pembagian bahan genetik secara kualitatif sama.
+        </p>
+        <p>
+        4. Telofase Datangnya kromosom anakan di kutub spindel merupakan tanda dimulainya telofase. Terbentuknya membran inti baru, anak inti baru dan menghilangnya spindel terjadi selama fase ini. Dengan terbentuknya dua buah inti baru, maka di tengah sel terbentuk dinding yang baru. Berlangsunglah sitokinesis (pembelahan sitoplasma).
+        </p>
         </p>
 
-        <h3>b. Pertahanan kimiawi</h3>
+        <h3>2. Pembelahan meiosis</h3>
         <p>
-          Pertahanan kimia berupa sekresi sejumlah senyawa kimia oleh kelenjar tubuh untuk meminimalisir jumlah patogen yang masuk ke dalam tubuh. Sebut saja sekresi Hidrogen Klorida di lambung untuk mengatasi patogen terbawa bersama makanan; sekresi lendir di saluran pernapasan untuk menangkap debu dan patogen; serta sekresi lisozim (enzim perusak dinding sel bakteri) pada komposisi air mata, air liur, dan keringat.
+        Meiosis merupakan pembelahan sel yang berlangsung dengan dua kali pembelahan yang menghasilkan empat sel anak, yang masing-masing memiliki separuh dari jumlah kromosom sel induk. . Pada pembelahan ini berlangsung melalui dua tahap yaitu meiosis I dan meiosis II tanpa melalui interfase. Interfase terjadi sebelum atau sesudah meiosis.
         </p>
-
-        <h3>c. Pertahanan di tingkat sel</h3>
+        <h4>1. Meiosis I </h4>
         <p>
-          Peran sejumlah sel khusus dalam menurunkan risiko pemaparan patogen seperti dalam mekanisme penutupan luka oleh trombosit (keping darah). Mekanisme ini dapat mencegah masuknya patogen melalui jaringan yang terbuka pada area luka. Pertahanan eksternal adalah mekanisme pertahanan umum yang tidak secara khusus membedakan jenis patogen. Dengan kata lain, pertahanan ini tidak spesifik. Kurangnya pengenalan patogen berarti bahwa efektivitas pertahanan eksternal terbatas. Misalnya, efek HCl lambung akan sama untuk semua patogen yang terbawa bersama makanan. Meskipun kondisi asam umumnya dapat menghambat atau bahkan menghentikan aktivitas sel, namun jika ada patogen yang dapat beradaptasi dengan kondisi asam, HCl tentu tidak akan efektif dalam menghentikan patogen tersebut. Oleh karena itu, tubuh memerlukan mekanisme pertahanan lanjutan yang dapat mengantisipasi masuknya patogen ke dalam jaringan tubuh dan mencegah dampak buruk selanjutnya.
-        </p>
-      </section>
-
-      <section>
-        <h2>2. Pertahanan Internal Spesifik (Antigen-Antibodi)</h2>
+        a. Fase Profase I.Perbedaan penting antara mitosis dan meiosis terutama pada profase. Pada meiosis Profase 1 dibedakan menjadi beberapa tahap yaitu:
+        </p>        
         <p>
-          Sistem pertahanan internal spesifik ditandai dengan pengenalan terhadap patogen spesifik oleh sejumlah tipe sel darah putih (leukosit). Tipe leukosit tertentu akan membedakan mana komponen yang “aman” untuk tubuh, serta mana komponen “asing” yang berpotensi membahayakan tubuh hingga perlu dihancurkan. Leukosit akan mengenali partikel khas dari patogen yang disebut antigen. Antigen dapat berupa protein, glikoprotein, lipid, polisakarida, dan berbagai zat yang dihasilkan oleh patogen tersebut. Antigen ditemukan sebagai bagian struktur sel patogen maupun partikel yang terpisah dari selnya. Saat suatu antigen terdeteksi atau bahkan dikenali keberadaannya di dalam jaringan tubuh, maka tubuh akan menciptakan respon imun. Respon imun yang bersifat bawaan (innate) akan berlaku umum untuk semua tipe antigen, misal respon demam dan peradangan. Beragam jenis infeksi virus dapat memicu terjadinya demam dan peradangan. Sementara itu respon imun yang adaptif akan memberikan respon yang lebih spesifik dengan pembentukan antibodi untuk setiap antigen yang dikenali.
-        </p>
-        <img src="bab5.1.png" alt="Struktur Penyerapan Makanan" className="section-image" />
-      </section>
-
-      <section>
-        <h2>3. Respon Imun dan Pengenalan Tubuh</h2>
-        <p>
-          Setiap sel manusia memiliki molekul pengenal di permukaan membrannya. Molekul ini sering disebut sebagai antigen permukaan sel. Mengapa disebut antigen? Walaupun tidak menstimulasi antibodi dalam tubuh sendiri, molekul ini akan melakukannya jika memasuki tubuh orang lain. Artinya, respon imun tidak terjadi tubuh mengenali antigen permukaan selnya. Respon imun akan muncul dengan hadirnya sel dengan antigen permukaan yang asing. Mekanisme ini dapat dijelaskan pada proses transfusi darah serta donor organ antar manusia. 
-          Pada penggolongan darah dengan sistem AB0, antigen permukaan sel berupa glikolipid pada membran sel darah merah (eritrosit) yang disebut aglutinogen. Jika Kalian bergolongan darah A, maka eritrosit Kalian memiliki aglutinogen tipe A di permukaannya. Tubuh Kalian hanya akan mengenali darah dengan aglutinogen A sebagai “darah sendiri”. Jika darah bergolongan A diberikan pada orang bergolongan darah B pada proses transfusi, penerima akan mengenali eritrosit tersebut sebagai benda asing dan segera membentuk antibodi di plasma darah. Antibodi ini disebut aglutinin. Pengenalan antibodi terhadap antigen eritrosit ini menyebabkan penggumpalan darah (aglutinasi). Aglutinasi darah tentu akan sangat berbahaya karena dapat menghambat bahkan merusak sistem sirkulasi tubuh.
-        </p>
-      </section>
-      <section>
-        <h2>B. Komponen Sistem Pertahanan Tubuh</h2>
-        <p>
-          Pada pembahasan sebelumnya telah diperlihatkan bahwa sel darah putih (leukosit) merupakan komponen seluler utama dari sistem imun tubuh. Leukosit memiliki berbagai jenis dan peran dalam sistem kekebalan tubuh. Namun, secara umum dapat dibedakan menjadi dua jenis, yaitu fagosit dan limfosit.
-        </p>
-
-        <h3>1. Fagosit</h3>
-        <p>
-          Fagosit secara harfiah berarti “sel pemakan”, secara fungsional sel ini akan menghancurkan patogen dengan cara mencernanya di dalam sel. Sel-sel fagosit dibentuk di dalam sumsum tulang, khususnya tulang pipa. Mereka disimpan dalam sumsum tulang sebelum didistribusikan sebelum beredar bersama aliran darah dan cairan limfa ke seluruh bagian tubuh. 
-          Dalam proses perkembangannya, fagosit merupakan hasil diferensiasi dari beberapa tipe sel, namun secara umum terdapat dua tipe fagosit yang sering ditemukan dalam respon imun tubuh, yaitu neutrofil dan makrofag.
-        </p>
-
-        <h4>a. Neutrofil</h4>
-        <p>
-          Neutrofil adalah jenis fagosit yang paling banyak ditemukan dan 60% komposisi leukosit dalam darah. Mereka dapat berpindah tempat ke seluruh bagian tubuh melalui pembuluh darah. Pada kondisi tertentu, seringkali neutrofil meninggalkan pembuluh darah dengan cara menyusup melalui dinding kapiler untuk ‘berpatroli’ di jaringan ikat. Kemampuan "menembus" pembuluh darah ini disebut diapedesis.
-        </p>
-        <img src="bab5.2.png" alt="Pertukaran Gas" className="section-image" />
-        <p>
-          Neutrofil memulai peran fagositiknya dengan menempel pada patogen. Membran permukaan sel neutrofil akan membentuk kantung vesikula yang membawa patogen (fagosom) masuk ke dalam sel secara endositosis. Enzim pencernaan akan disekresikan oleh Badan Golgi ke dalam lisosom. Lisosom kemudian bergabung dengan fagosom membentuk struktur vakuola fagositik atau vakuola makanan dan menghancurkan patogen. Secara keseluruhan, proses ini dikenal sebagai fagositosis.
+        1.Leptoten Kromatin dari inti sel induk nampak seperti benang-benang panjang yang halus dan melingkar-lingkar. 
         </p> 
-        <img src="bab5.3.png" alt="Pertukaran Gas" className="section-image" />
-        <h4>b. Makrofag</h4>
         <p>
-          Jenis sel fagosit berikutnya adalah makrofag. Makrofag memiliki ukuran lebih besar dibanding neutrofil. Daripada beredar di pembuluh darah, makrofag lebih sering menetap pada organ-organ tertentu seperti paru-paru, hati, limpa, ginjal, dan nodus limfa. Setelah dibentuk di dalam sumsum tulang, makrofag akan beredar dalam darah sebagai monosit, yang berkembang menjadi makrofag ketika meninggalkan darah dan menetap dalam organ. 
-          Berbeda dengan neutrofil, makrofag adalah sel yang masa hidupnya cukup panjang dan memiliki peran penting dalam menginisiasi respons imun spesifik lainnya. Makrofag tidak menghancurkan patogen sepenuhnya, tapi memecahnya menjadi partikel kecil yang dijadikan sampel antigen. Partikel sampel tersebut akan menjadi bagian struktur luar dari membran sel makrofag untuk kemudian dikenali oleh limfosit. Dengan demikian antigen dapat terus dikenali sekaligus menjadi sinyal ‘membutuhkan bantuan’ yang dapat menstimulasi respon imun spesifik lainnya. Karena kemampuannya dalam menampilkan antigen di bagian permukaan sel ini makrofag disebut juga sebagai sel penyaji antigen (Antigen-Presenting Cells/APCs).
+        2.Zygoten Benang-benang kromatin berubah bentuknya dan menjadi batang-batang kromosom. asing-masing kromosom mencari pasangannya sendiri yang sama dan sebangun atau yang serupa (kromosom homolog). Proses berpasangan ini disebut sinapsis.
+        </p> 
+        <p>
+        3.Pachyten Benang - benang kromosom menjadi lebih tebal dan jelas.Tiap benang tampak double. Masing - masing kromosom dari sepasang kromosom homolog terdiri dari dua kromatid. Pada profase mitosis, kromosom - kromosom terpisah dan tidak saling berhubungan. Dalam profase I meiosis, kromosom - kromosom homolog berpasangan sebagai bivalen dan inilah yang dijumpai sebagai haploid. Pachyten merupakan stadia yang sangat penting yaitu pindah silang (crossing over). Proses ini akan nampak jelas pada fase berikutnya
+        </p> 
+        <p>
+        4.Diploten Fase ini ditandai dengan mulai memisahnya kromatid - kromatid yang semula berpasangan membentuk bivalen. Memisahnya kromatid – kromatid paling kuat terjadi pada bagian sentromer. Tetapi pada bagianbagian tertentu dari kromosomhomolog tetap berdekatan dan bagian itu disebut kiasma. Kiasma merupakan bentukpersilangan dua dari empat kromatid suatu kromosom dengan pasangan kromosomhomolognya. Di tempat persilangan (kiasma) itu kromatid - kromatid tak serupa(nonsister chromatids) putus. Ujung - ujung dari kromatid yang putus tadibersambungan secara resiprok. Proses pertukaran segmen kromatid tak serupadengan pasangan homolog beserta gen - gen yang berangkai secara resiprok inidinamakan pindah silang. Peristiwa ini merupakan salah satu penyumbangkeanekaragaman individu makhluk hidup. 
+        </p> 
+        <p>
+        5.Diakinesis Terbentuk benang - benang spindel dari pergerakan dua sentriol (hasil pembelahan) ke arah kutub yang berlawanan. Diakinesis diakhiri dengan menghilangnya nukleolus dan membran nukleus serta tetrad mulai bergerak ke bidang equator.
         </p>
-        <img src="bab5.4.png" alt="Pembentukan Urin" className="section-image" />
+        <p>
+        b.Fase Metafase I,Tetrad kromosom berada di bidang equator. Pada bidang equator, benang spindel (mikrotubula) melekatkan diri pada setiap sentromer kromosom. Ujung benang spindel yang lain membentang melekat di kedua kutub pembelahan yang berlawanan
+        </p> 
+        <p>
+        c.Fase Anafase I,Tiap kromosom homolog (yang berisi dua kromatid kembarannya) masing - masing ditarik oleh benang spindel menuju ke kutub yang berlawanan.
+        </p> 
+        <p>
+        d. Fase Telofase I Kromosom - kromosom homolog sudah mencapai kutub pembelahan.
+        •	Sitokinesis I : setiap kromosom homolog dipisahkan oleh sekat sehingga sitokinesis menghasilkan dua sel, masing - masing berisi kromosom dengan kromatid kembarannya.
+        •	Interkinesis : tahap di antara dua pembelahan meiosis. Tidak terjadi perbanyakan(replikasi). DNA. Hasil pembelahan meiosis I menghasilkan dua sel anakan yang haploid. Meskipun demikian perlu diingat bahwa kromosom tersebut masih berisi sepasang kromatid, yang berarti kandungan DNA nya masih rangkap 
+        </p> 
+        <h4>1. Meiosi II </h4> 
+        <p>
+        Tujuan meiosis II membagi kedua salinan tersebut pada sel anakan baru. Pada tahap Meiosis II terjadi tahap - tahap serupa pada meiosis I
+        </p> 
+        <p>
+        a. Fase Profase II : Kromatid kembaran masih melekat pada tiap sentromer kromosom. 
+        </p>
+        <p>
+        b.Fase Metafase II : Setiap kromosom (yang berisi dua kromatid) merentang pada bidang equator. Terbentuk benang - benang spindel, satu ujung melekat pada sentromer dan ujung lain membentang menuju ke kutub pembelahan yang berlawanan. 
+        </p>
+        <p>
+        c.Anafase II : Benang - benang spindel mulai menarik kromatid menuju ke kutub yang berlawanan.akibatnya kromosom memisahkan kedua kromatidnya dan bergerak menuju kutub yang berbeda. Kromatid yang terpisah ini kini disebut kromosom. . 
+        </p>
+        <p>
+        d. Telofase II : Kromosom telah mencapai kutub pembelahan. Hasil akhir akan terbentuk empat inti yang mengandung setengah pasang kromosom (haploid) dan satu salinan DNA . 
+        •	Sitokinesis II : tiap inti mulai dipisahkan oleh sekat sel dan akhirnya menghasilkan empat sel kembar haploid. 
+        </p>
+        <img src="bab5.2.jpg" alt="Struktur Penyerapan Makanan" className="section-image" />
       </section>
 
       <section>
-        <h2>2. Limfosit dan Respon Imun Spesifik</h2>
-        <p>
-          Limfosit adalah tipe sel darah putih yang berperan penting dalam sistem pertahanan tubuh khususnya dalam respon imun spesifik adaptif. Terdapat dua jenis limfosit, keduanya telah dibentuk sejak sebelum kelahiran di dalam sumsum tulang janin. 
-          • Limfosit B (sel B) tetap berada dalam sumsum tulang hingga cukup matang kemudian menyebar ke seluruh tubuh, terutama di nodus limfa dan limpa (organ di sisi kiri lambung). 
-          • Limfosit T (sel T) meninggalkan sumsum tulang dan berkumpul serta menjadi matang di timus. Timus adalah sebuah kelenjar yang terdapat di rongga dada, tepat di bawah tulang dada (sternum). Ukurannya menjadi dua kali lebih besar di masa antara kelahiran dan masa pubertas, tetapi setelah pubertas ukuran timus akan tereduksi. 
-          Dalam proses pematangannya, limfosit B dan T berspesialisasi menjadi tipe limfosit dengan beragam fungsi spesifik. Sel B dan T akan bersirkulasi di dalam pembuluh darah dan limfa. Kondisi ini memastikan bahwa limfosit dapat tersebar ke seluruh bagian tubuh dan meningkatkan peluang untuk mendeteksi keberadaan patogen yang menginfeksi tubuh. Sejumlah sel dari kedua tipe limfosit akan bertahan lama dalam sirkulasi darah dan limfa. Sel berumur panjang ini akan “mengingat” antigen yang pernah dikenali sebelumnya, serta respon yang tepat untuk mengatasinya. Sel ini disebut sel memori.
-        </p>
+      <h2>A. Pewarisan Sifat</h2>
+<p>
+Pewarisan sifat adalah proses dimana karakteristik genetik diturunkan dari satu generasi ke generasi berikutnya melalui materi genetik yang terdapat dalam sel.
+</p>
 
-        <h3>a. Limfosit B (Sel B) dan respon imun spesifik humoral</h3>
-        <p>
-          Limfosit B memberikan respon imun dengan membentuk antibodi. Setiap sel B yang telah teraktivasi akan membentuk kelompok kecil (klon) berdasarkan jenis antibodi yang dibuatnya.
-        </p>
-        <img src="bab5.5.png" alt="Kelainan Pertukaran Zat" className="section-image" />
-        <p>
-          Pada awalnya molekul antibodi hanya menempel di permukaan membran sel B, hingga kemudian dapat dilepas dan beredar di plasma darah dan limfa. Antibodi beredar di plasma darah dan cairan tubuh lainnya untuk mengenali antigen spesifik yang masuk ke dalam tubuh. Atas dasar ini lah respon limfosit B disebut juga respon imun spesifik humoral (humor = cairan tubuh). Kehadiran antigen mengaktivasi limfosit B yang berdiferensiasi menjadi dua tipe sel, yaitu sel plasma dan sel B memori. Sel plasma dapat memroduksi molekul antibodi dengan cepat, hingga mencapai jumlah beberapa ribu dalam 1 detik. Pada infeksi pertama (respon primer), sel plasma memulai pengenalan antigen dan membentuk antibodi. Karena memiliki masa hidup yang singkat, respon sel plasma akan dilanjutkan oleh sel memori. Sel ini akan bersirkulasi dalam tubuh dalam waktu lama. Apabila terdapat antigen yang sama dan dikenali kembali (respon sekunder), sel memori akan membelah secara cepat dan berkembang menjadi sel plasma dan sel memori yang lebih banyak lagi. Hal ini terjadi berulang dalam setiap kehadiran antigen yang sama, yang berarti infeksi dapat ditanggulangi sebelum terus berkembang.
-        </p>
-    
+<h3>1. Konsep Dasar Pewarisan Sifat</h3>
+<p>
+Pewarisan sifat adalah proses biologis di mana karakteristik atau sifat-sifat tertentu dari orang tua diturunkan kepada keturunannya melalui materi genetik. Proses ini melibatkan gen, yang merupakan unit dasar pewarisan, yang terdapat pada kromosom di dalam inti sel.
+Sifat-sifat yang diwariskan mencakup karakteristik fisik seperti warna mata, bentuk wajah, tinggi badan, dan warna rambut, serta sifat non-fisik seperti golongan darah, kecenderungan penyakit tertentu, dan sebagainya
+</p>
+<p>
+Mekanisme pewarisan sifat dijelaskan melalui beberapa konsep dasar:
+<ul>
+  <li><b>Gen:</b> Unit dasar pewarisan sifat yang mengkode sifat tertentu.</li>
+  <li><b>Kromosom:</b> Struktur di dalam inti sel yang mengandung gen.</li>
+  <li><b>Alel:</b> Bentuk alternatif dari gen yang menentukan variasi sifat.</li>
+  <li><b>Dominan dan Resesif:</b> Alel dominan akan menutupi efek alel resesif dalam menentukan sifat fenotip.</li>
+</ul>
+</p>
 
-      <h3>b. Limfosit T (Sel T) dan respon imun spesifik seluler</h3>
-      <p>
-        Tipe limfosit kedua adalah limfosit T. Dinamai sel T karena sel ini menjadi matang di timus. Berbeda dengan sel B yang menghasilkan antibodi sebagai respon imun spesifiknya, sel limfosit T memiliki reseptor permukaan sel yang spesifik disebut reseptor sel T. Meskipun demikian, reseptor sel T memiliki sifat yang mirip dengan antibodi dalam hal kemampuan mengenali antigen spesifik. Karena respon imun yang diberikan bertumpu pada reseptor permukaan sel, maka respon imun sel T disebut juga respon imun spesifik seluler.
-      </p>
-      <img src="bab5.6.png" alt="Kelainan Pertukaran Zat" className="section-image" />
+<h3>2. Hukum Mendel</h3>
+<p>
+Gregor Mendel adalah seorang ilmuwan Austria yang dikenal sebagai "Bapak Genetika." Melalui eksperimen pada tanaman kacang polong (Pisum sativum), Mendel menemukan pola dasar pewarisan sifat dan merumuskan dua hukum yang menjadi dasar genetika modern: Hukum Segregasi dan Hukum Asortasi Bebas.
+</p>
+<h4>a. Hukum Segregasi</h4>
+<p>
+Hukum ini menyatakan bahwa:
+Setiap individu memiliki sepasang alel untuk setiap sifat, dan kedua alel tersebut akan dipisahkan (segregasi) secara acak ke dalam gamet selama pembentukan gamet.
+Penjelasan:
+Dalam proses pembelahan meiosis, sepasang alel yang menentukan suatu sifat akan berpisah.
+Gamet (sel kelamin seperti sperma atau ovum) hanya membawa satu alel dari pasangan alel induknya.
+Ketika pembuahan terjadi, zigot (individu baru) akan memiliki kombinasi alel dari kedua induk.
+</p>
+<h4>b. Hukum Asortasi Bebas</h4>
+<p>
+Gen-gen untuk sifat yang berbeda akan diwariskan secara independen satu sama lain, selama gen tersebut berada pada kromosom yang berbeda.
+</p>
+<img src="bab5.4.jpg" alt="Hukum Mendel" className="section-image" />
 
-      <h3>C. Imunitas Tubuh dan Kelainannya</h3>
-      <p>
-      Saat sistem pertahanan tubuh berfungsi dengan baik, 
-      maka tubuh akan tetap terlindungi dari infeksi. Kemampuan tubuh 
-      untuk mengatasi infeksi patogen ini dikenal sebagai imunitas. Upaya 
-      menjaga fungsi imunitas tubuh tidak hanya terjadi secara alami tapi 
-      juga dapat dilakukan secara buatan melalui tindakan medis atau 
-      imunisasi.</p>
-      <h2>1. Imunitas Aktif dan Pasif</h2>
-      <p>. Jika masih terdapat patogen yang berhasil masuk, maka pertahanan internal 
-          spesifik diaktifkan. Sel limfosit B dalam tubuh mengenali antigen dan 
-          membentuk antibodi. Imunitas yang terbentuk pada proses ini disebut 
-          imunitas aktif alami. Disebut alami karena respon imun muncul 
-          akibat infeksi patogen dan disebut aktif karena antibodi diproduksi 
-          oleh tubuh sendiri. <br/>
-          Imunitas yang terbentuk karena pemasukan antibodi dari luar tubuh 
-          disebut imunitas pasif. Imunitas pasif tidak bertahan lama, tergantung 
-          dari lama ketersediaan antibodi di dalam tubuh. ASI (air susu ibu) yang 
-          diproduksi di awal pasca persalinan (disebut colostrum) diketahui 
-          banyak mengandung antibodi dari ibu. Dengan demikian secara alami, 
-          bayi memperoleh imunitas pasif dengan mendapat suplai antibodi dari 
-          ASI. Pada kasus pasien yang kritis atau mengalami penurunan respon 
-          imun, suplai antibodi dapat diberikan secara buatan dengan donor 
-          plasma. Individu yang sehat dengan produksi antibodi yang melimpah 
-          dapat mendonorkan plasma darahnya tersebut pada individu lain. </p>
-          <h2>2. Kelainan Sistem Pertahanan dan Indikasinya</h2>
-          <h3>a. Alergi</h3>
-          <p>Alergi adalah muculnya respon imun berlebih terhadap zat atau kondisi 
-            tertentu yang normalnya tidak berbahaya bagi tubuh. Respon yang 
-            paling umum adalah dibentuknya histamin oleh leukosit meskipun 
-            tidak terjadi infeksi. Reaksi tersebut dapat menimbulkan berbagai 
-            gejala, seperti pilek, ruam kulit yang gatal, atau bahkan sesak napas. 
-            Alergi terjadi karena terlalu sensitifnya sistem imun tubuh. Zat yang 
-            dapat memicu respons alergi disebut dengan alergen.</p>
-            <h3>b. HIV – AIDS</h3>
-            <p>HIV (Human Immunodeficiency Virus) virus yang menyerang sistem 
-                kekebalan tubuh, khususnya sel limfosit T, sehingga daya tubuh 
-                semakin melemah dan rentan diserang berbagai penyakit. Infeksi 
-                HIV dapat berkembang menjadi AIDS (Acquired Immune Deficiency 
-                Syndrome), kondisi dimana tubuh mengalami berbagai gangguan 
-                kesehatan akibat penurunan fungsi sistem imun. Penyakit ringan pada 
-                orang dengan imunitas normal dapat menjadi mematikan jika terjadi 
-                pada penderita AIDS.  </p>
-      <img src="bab4.9.png" alt="Kelainan Pertukaran Zat" className="section-image" />
-                <h3>c. Penyakit Autoimun</h3>
-                <p>Penyakit autoimun adalah kondisi ketika sistem pertahanan tubuh 
-                    seseorang menyerang tubuhnya sendiri. Umumnya terjadi pada sistem 
-                    imum spesifik yang kehilangan kemampuan dalam pengenalan sel-sel 
-                    tubuh. Ada lebih dari 80 penyakit yang digolongkan penyakit autoimun. 
-                    Beberapa di antaranya memiliki gejala serupa, seperti kelelahan, nyeri 
-                    otot, dan demam.</p>
+<h3>3. Pola Pewarisan Sifat</h3>
+<p>
+Pewarisan sifat dapat dibagi menjadi beberapa pola, yaitu:
+</p>
+<ul>
+  <li><b>Pewarisan Dominan:</b> Sifat ditentukan oleh alel dominan.</li>
+  <li><b>Pewarisan Resesif:</b> Sifat hanya muncul jika kedua alel resesif hadir.</li>
+  <li><b>Pewarisan Kodominan:</b> Kedua alel diekspresikan secara bersamaan, seperti pada golongan darah AB.</li>
+  <li><b>Pewarisan Intermediat:</b> Sifat yang muncul merupakan campuran antara dua alel, seperti pada warna bunga merah dan putih yang menghasilkan bunga merah muda.</li>
+</ul>
+<img src="bab5.5.jpg" alt="Pola Pewarisan Sifat" className="section-image" />
+
+<h3>4. Peran DNA dan RNA</h3>
+<p>
+Materi genetik yang berperan dalam pewarisan sifat adalah DNA (Deoxyribonucleic Acid). DNA menyimpan informasi genetik, sementara RNA membantu proses penerjemahan informasi ini menjadi protein yang menentukan sifat individu.
+</p>
+<ul>
+  <li><b>DNA:</b> Struktur heliks ganda yang mengandung basa nitrogen seperti Adenin (A), Timin (T), Sitosin (C), dan Guanin (G).</li>
+  <li><b>RNA:</b> Molekul rantai tunggal yang berperan dalam sintesis protein, menggantikan Timin (T) dengan Urasil (U).</li>
+</ul>
+<img src="bab5.6.jpeg" alt="DNA dan RNA" className="section-image" />
+
+<h3>5. Faktor Lingkungan</h3>
+<p>
+Selain faktor genetik, lingkungan memainkan peran penting dalam menentukan ekspresi sifat individu. Sementara gen membawa informasi dasar tentang karakteristik tertentu, faktor lingkungan dapat memengaruhi bagaimana sifat tersebut diekspresikan atau berkembang.
+Contohnya, tinggi badan dipengaruhi oleh faktor nutrisi, dan warna kulit dapat berubah karena paparan sinar matahari.
+</p>
+<h3>6. Penyimpangan Hukum Mendel</h3>
+<p>
+Dalam beberapa kasus, pewarisan sifat tidak sepenuhnya mengikuti hukum Mendel. Penyimpangan ini meliputi:
+<ul>
+  <li><b>Gen Tautan:</b> Gen-gen yang berada pada kromosom yang sama dan diwariskan secara bersamaan.</li>
+  <li><b>Pewarisan Non-Mendelian:</b> Contohnya, pewarisan maternal melalui DNA mitokondria.</li>
+  <li><b>Epistasis:</b> Interaksi antar gen di mana satu gen memengaruhi ekspresi gen lain.</li>
+</ul>
+</p>
+
+<h3>7. Aplikasi Pewarisan Sifat</h3>
+<p>
+Pemahaman tentang pewarisan sifat memiliki berbagai aplikasi, seperti:
+<ul>
+  <li><b>Medis:</b> Untuk memahami dan mengobati penyakit genetik seperti hemofilia dan anemia sel sabit.</li>
+  <li><b>Pertanian:</b> Pengembangan varietas tanaman unggul melalui rekayasa genetika.</li>
+  <li><b>Forensik:</b> Analisis DNA untuk identifikasi individu dalam kasus kriminal.</li>
+</ul>
+</p>
+<h3>8. Teknik Modern dalam Studi Genetika</h3>
+<p>
+Dengan kemajuan teknologi, studi pewarisan sifat telah berkembang pesat. Beberapa teknik modern meliputi:
+<ul>
+  <li><b>CRISPR-Cas9:</b> Teknologi pengeditan gen untuk memperbaiki gen yang rusak.</li>
+  <li><b>Sequencing DNA:</b> Teknik untuk menentukan urutan basa dalam DNA.</li>
+  <li><b>Rekayasa Genetika:</b> Modifikasi gen untuk tujuan tertentu, seperti meningkatkan resistansi tanaman terhadap hama.</li>
+</ul>
+</p>
       </section>
       <div className="bottom-container">
         <h2>"Yuk, uji pemahamanmu dengan latihan soal! <br/>
