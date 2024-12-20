@@ -11,61 +11,107 @@ const LatihanSoal5 = () => {
 
   const questions = [
     {
-      question: "Apa fungsi utama dari sistem imun manusia?",
+      question: "Apa yang dimaksud dengan pembelahan mitosis?",
       options: [
-        { label: "A. Mengatur suhu tubuh", value: "A" },
-        { label: "B. Melindungi tubuh dari infeksi penyakit", value: "B", isCorrect: true },
-        { label: "C. Menyaring racun dalam tubuh", value: "C" },
-        { label: "D. Menghasilkan energi", value: "D" },
+        { label: "A. Pembelahan sel untuk menghasilkan dua sel anak dengan jumlah kromosom yang setengah dari sel induk", value: "A" },
+        { label: "B. Pembelahan sel yang menghasilkan empat sel anak dengan jumlah kromosom setengah dari sel induk", value: "B" },
+        { label: "C. Pembelahan sel yang menghasilkan dua sel anak dengan jumlah kromosom yang sama dengan sel induk", value: "C", isCorrect: true },
+        { label: "D. Pembelahan sel untuk memperbaiki sel-sel yang rusak", value: "D" },
       ],
-      explanation:
-        "Fungsi utama dari sistem imun adalah melindungi tubuh dari infeksi oleh mikroorganisme patogen seperti bakteri, virus, dan jamur.",
+      explanation: "Mitosis adalah pembelahan sel yang menghasilkan dua sel anak yang identik dengan sel induk, dengan jumlah kromosom yang sama.",
     },
     {
-      question: "Bagaimana tubuh mengidentifikasi patogen?",
+      question: "Pada fase manakah kromosom berada di tengah sel dan berbaris di bidang ekuator?",
       options: [
-        { label: "A. Dengan memproduksi sel darah merah", value: "A" },
-        { label: "B. Dengan menggunakan sel-sel imun yang mengenali antigen", value: "B", isCorrect: true },
-        { label: "C. Dengan meningkatkan suhu tubuh", value: "C" },
-        { label: "D. Dengan memproduksi hormon tertentu", value: "D" },
+        { label: "A. Profase", value: "A" },
+        { label: "B. Metafase", value: "B", isCorrect: true },
+        { label: "C. Anafase", value: "C" },
+        { label: "D. Telofase", value: "D" },
       ],
-      explanation:
-        "Tubuh mengidentifikasi patogen melalui sel-sel imun yang mengenali antigen, yang merupakan molekul yang terdapat pada permukaan patogen.",
+      explanation: "Pada fase metafase, kromosom berjajar di tengah sel pada bidang ekuator, mempersiapkan diri untuk dipisahkan pada fase berikutnya.",
     },
     {
-      question: "Sel darah putih yang berfungsi untuk melawan infeksi adalah …",
+      question: "Pembelahan sel yang menghasilkan empat sel anak dengan jumlah kromosom setengah dari sel induk adalah?",
       options: [
-        { label: "A. Limfosit", value: "A", isCorrect: true },
-        { label: "B. Trombosit", value: "B" },
-        { label: "C. Eritrosit", value: "C" },
-        { label: "D. Sel darah merah", value: "D" },
+        { label: "A. Mitosis", value: "A" },
+        { label: "B. Meiosis", value: "B", isCorrect: true },
+        { label: "C. Kariotipe", value: "C" },
+        { label: "D. Fertilisasi", value: "D" },
       ],
-      explanation:
-        "Limfosit adalah sel darah putih yang berperan penting dalam respon imun tubuh, seperti mengenali dan menghancurkan patogen.",
+      explanation: "Meiosis adalah pembelahan sel yang menghasilkan sel gamet, yaitu sel telur dan sperma, dengan jumlah kromosom setengah dari sel induk.",
     },
     {
-      question: "Apa yang dimaksud dengan antibodi?",
+      question: "Apa yang dimaksud dengan crossing over dalam proses meiosis?",
       options: [
-        { label: "A. Protein yang melawan infeksi dengan mengikat antigen", value: "A", isCorrect: true },
-        { label: "B. Sel yang menghasilkan energi untuk tubuh", value: "B" },
-        { label: "C. Hormon yang mengatur metabolisme tubuh", value: "C" },
-        { label: "D. Sel yang mengangkut oksigen", value: "D" },
+        { label: "A. Proses pemisahan kromosom homolog", value: "A" },
+        { label: "B. Proses pertukaran segmen antara kromosom homolog", value: "B", isCorrect: true },
+        { label: "C. Pembentukan sel haploid", value: "C" },
+        { label: "D. Penggabungan kromosom setelah pembelahan", value: "D" },
       ],
-      explanation:
-        "Antibodi adalah protein yang diproduksi oleh tubuh untuk mengenali dan menetralkan antigen, seperti virus dan bakteri, dalam tubuh.",
+      explanation: "Crossing over adalah proses pertukaran segmen kromatid antara kromosom homolog yang terjadi pada fase profase I meiosis.",
     },
     {
-      question: "Vaksin bekerja dengan cara...",
+      question: "Pada pembelahan meiosis, fase yang menghasilkan dua sel haploid disebut?",
       options: [
-        { label: "A. Memberikan imunitas dengan cara melatih tubuh mengenali patogen tertentu", value: "A", isCorrect: true },
-        { label: "B. Menghancurkan patogen secara langsung", value: "B" },
-        { label: "C. Menyembuhkan penyakit secara langsung", value: "C" },
-        { label: "D. Mengaktifkan sistem pencernaan tubuh", value: "D" },
+        { label: "A. Telofase I", value: "A", isCorrect: true },
+        { label: "B. Telofase II", value: "B" },
+        { label: "C. Profase I", value: "C" },
+        { label: "D. Metafase II", value: "D" },
       ],
-      explanation:
-        "Vaksin bekerja dengan cara memperkenalkan tubuh pada patogen yang telah dilemahkan atau dimodifikasi, sehingga tubuh bisa membangun kekebalan terhadap patogen tersebut tanpa menimbulkan penyakit.",
+      explanation: "Pada telofase I, pembelahan pertama meiosis menghasilkan dua sel haploid, yang kemudian akan mengalami meiosis II.",
+    },
+    {
+      question: "Pada pembelahan mitosis, kromosom pada setiap sel anak memiliki jumlah kromosom yang...",
+      options: [
+        { label: "A. Setengah dari jumlah kromosom sel induk", value: "A" },
+        { label: "B. Sama dengan jumlah kromosom sel induk", value: "B", isCorrect: true },
+        { label: "C. Lebih banyak dari jumlah kromosom sel induk", value: "C" },
+        { label: "D. Tidak teratur", value: "D" },
+      ],
+      explanation: "Pada mitosis, setiap sel anak memiliki jumlah kromosom yang sama dengan sel induk, sehingga keduanya identik secara genetik.",
+    },
+    {
+      question: "Apa yang dimaksud dengan alel dalam pewarisan sifat?",
+      options: [
+        { label: "A. Salinan genetik yang diturunkan dari orang tua", value: "A" },
+        { label: "B. Bentuk gen yang berbeda pada kromosom yang sama", value: "B", isCorrect: true },
+        { label: "C. Gen yang menyebabkan sifat dominan", value: "C" },
+        { label: "D. Proses terjadinya pembelahan sel", value: "D" },
+      ],
+      explanation: "Alel adalah bentuk alternatif dari suatu gen yang berada pada lokus yang sama di kromosom homolog, dan dapat berupa alel dominan atau resesif.",
+    },
+    {
+      question: "Hukum Mendel yang menyatakan bahwa dua alel untuk suatu sifat akan terpisah secara acak selama pembentukan gamet disebut?",
+      options: [
+        { label: "A. Hukum Asortasi Bebas", value: "A" },
+        { label: "B. Hukum Segregasi", value: "B", isCorrect: true },
+        { label: "C. Hukum Dominasi", value: "C" },
+        { label: "D. Hukum Pemisahan Alel", value: "D" },
+      ],
+      explanation: "Hukum Segregasi Mendel menyatakan bahwa setiap individu memiliki sepasang alel, dan kedua alel akan terpisah saat gamet terbentuk.",
+    },
+    {
+      question: "Sifat yang hanya akan diekspresikan jika kedua alel pada individu tersebut resesif disebut?",
+      options: [
+        { label: "A. Sifat dominan", value: "A" },
+        { label: "B. Sifat resesif", value: "B", isCorrect: true },
+        { label: "C. Sifat kodominan", value: "C" },
+        { label: "D. Sifat intermediat", value: "D" },
+      ],
+      explanation: "Sifat resesif hanya akan diekspresikan jika kedua alel untuk sifat tersebut adalah alel resesif.",
+    },
+    {
+      question: "Bagaimana manusia mewariskan sifat-sifatnya kepada keturunannya?",
+      options: [
+        { label: "A. Melalui pembelahan mitosis", value: "A" },
+        { label: "B. Melalui pembelahan meiosis dan fertilisasi", value: "B", isCorrect: true },
+        { label: "C. Dengan menggabungkan dua set kromosom yang sama", value: "C" },
+        { label: "D. Dengan proses pertumbuhan", value: "D" },
+      ],
+      explanation: "Pewarisan sifat pada manusia terjadi melalui meiosis untuk membentuk gamet, yang kemudian bersatu pada fertilisasi untuk membentuk individu baru.",
     },
   ];
+  
 
   const currentQuestion = questions[currentQuestionIndex];
 
