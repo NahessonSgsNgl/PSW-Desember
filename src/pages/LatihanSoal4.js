@@ -11,65 +11,65 @@ const LatihanSoal = () => {
 
   const questions = [
     {
-      question: "Apa yang dimaksud dengan transportasi zat dalam tubuh manusia?",
+      question: "Proses pembelahan sel yang menghasilkan dua sel anak identik dengan sel induk disebut:",
       options: [
-        { label: "A. Proses pencernaan makanan", value: "A" },
+        { label: "A. Amitosis", value: "A" },
         {
-          label: "B. Proses pengangkutan zat-zat penting ke seluruh tubuh",
+          label: "B. Mitosis",
           value: "B",
           isCorrect: true,
         },
-        { label: "C. Proses penyerapan nutrisi di usus", value: "C" },
-        { label: "D. Proses ekskresi zat sisa", value: "D" },
+        { label: "C. Meiosis", value: "C" },
+        { label: "D. Sitokinesis", value: "D" },
       ],
       explanation:
-        "Transportasi zat dalam tubuh manusia adalah proses pengangkutan zat-zat penting seperti oksigen, nutrisi, dan hormon ke seluruh bagian tubuh melalui sistem peredaran darah.",
+        "Mitosis adalah proses pembelahan sel yang menghasilkan dua sel anak dengan jumlah kromosom yang sama dengan sel induk. Proses ini terjadi pada sel somatik dan bertujuan untuk pertumbuhan, perbaikan jaringan, dan regenerasi.",
     },
     {
-      question: "Apa fungsi utama hemoglobin dalam darah?",
+      question: "Tahap dalam mitosis di mana kromosom berjajar di bidang ekuator adalah:",
       options: [
-        { label: "A. Mengangkut karbon dioksida", value: "A" },
-        { label: "B. Mengangkut oksigen", value: "B", isCorrect: true },
-        { label: "C. Mengatur pH darah", value: "C" },
-        { label: "D. Memproduksi sel darah merah", value: "D" },
+        { label: "A. Profase", value: "A" },
+        { label: "B. Metafase", value: "B", isCorrect: true },
+        { label: "C. Anafase", value: "C" },
+        { label: "D. Telofase", value: "D" },
       ],
       explanation:
-        "Hemoglobin adalah protein yang terdapat dalam sel darah merah dan berfungsi utama untuk mengangkut oksigen dari paru-paru ke seluruh tubuh.",
-    },
-    {
-      question:
-        "Di mana proses pertukaran gas (oksigen dan karbon dioksida) terjadi dalam tubuh manusia?",
-      options: [
-        { label: "A. Di jantung", value: "A" },
-        { label: "B. Di paru-paru", value: "B", isCorrect: true },
-        { label: "C. Di hati", value: "C" },
-        { label: "D. Di ginjal", value: "D" },
-      ],
-      explanation:
-        "Proses pertukaran gas terjadi di paru-paru, tepatnya di alveolus, di mana oksigen dari udara masuk ke dalam darah dan karbon dioksida dikeluarkan dari darah ke udara.",
-    },
-    {
-      question: "Zat apa yang diangkut oleh sistem limfatik?",
-      options: [
-        { label: "A. Hormon", value: "A" },
-        { label: "B. Oksigen", value: "B" },
-        { label: "C. Lemak dan limfa", value: "C", isCorrect: true },
-        { label: "D. Karbon dioksida", value: "D" },
-      ],
-      explanation:
-        "Sistem limfatik berfungsi untuk mengangkut lemak yang diserap dari usus serta limfa, yang mengandung sel-sel imun, dari jaringan tubuh kembali ke aliran darah.",
+        "Metafase adalah tahap kedua dalam mitosis, di mana kromosom yang telah terkondensasi berjajar di tengah sel (bidang ekuator) dan berikatan dengan serat spindle melalui sentromer.",
     },
     {
       question:
-        "Apa yang terjadi pada sel-sel tubuh saat kekurangan oksigen?",
+        "Berikut ini yang merupakan perbedaan utama antara mitosis dan meiosis adalah:",
       options: [
-        { label: "A. Sel-sel akan membelah lebih cepat", value: "A" },
-        { label: "B. Sel-sel akan mengalami kematian", value: "B", isCorrect: true },
-        { label: "C. Sel-sel akan berfungsi lebih efisien", value: "C" },
-        { label: "D. Sel-sel akan menghasilkan energi melalui respirasi aerob", value: "D" },
+        { label: "A. Mitosis terjadi pada sel kelamin, sedangkan meiosis pada sel tubuh", value: "A" },
+        { label: "B. Mitosis menghasilkan 2 sel, meiosis menghasilkan 4 sel", value: "B", isCorrect: true },
+        { label: "C. Mitosis mengurangi jumlah kromosom, meiosis mempertahankan jumlah kromosom", value: "C" },
+        { label: "D. Meiosis tidak mengalami tahap pembelahan", value: "D" },
       ],
       explanation:
-        "Kekurangan oksigen pada sel-sel tubuh dapat menyebabkan gangguan fungsi sel dan akhirnya kematian sel, karena sel tidak dapat melakukan respirasi aerob yang diperlukan untuk menghasilkan energi.",
+        "Mitosis menghasilkan dua sel anak identik dengan kromosom yang sama dengan sel induk. Meiosis, sebaliknya, menghasilkan empat sel anak dengan jumlah kromosom separuh dari sel induk, karena terjadi dua kali pembelahan (meiosis I dan meiosis II).",
+    },
+    {
+      question: "Pada tahap meiosis, proses pindah silang (crossing over) terjadi pada:",
+      options: [
+        { label: "A. Anafase II", value: "A" },
+        { label: "B. Metafase I", value: "B" },
+        { label: "C. Profase I", value: "C", isCorrect: true },
+        { label: "D. Telofase I", value: "D" },
+      ],
+      explanation:
+        "Pindah silang (crossing over) terjadi pada tahap profase I meiosis. Pada tahap ini, kromosom homolog saling bertukar segmen genetik di tempat yang disebut kiasma, menghasilkan variasi genetik pada sel anak.",
+    },
+    {
+      question:
+        "Tahapan dalam mitosis yang ditandai dengan pemisahan kromatid menjadi kromosom adalah:",
+      options: [
+        { label: "A. Profase", value: "A" },
+        { label: "B. Anafase", value: "B", isCorrect: true },
+        { label: "C. Metafase", value: "C" },
+        { label: "D. Telofase", value: "D" },
+      ],
+      explanation:
+        "Anafase adalah tahap mitosis di mana kromatid kakak yang sebelumnya berpasangan dipisahkan oleh serat spindle dan bergerak ke kutub yang berlawanan. Setiap kromatid menjadi kromosom individu.",
     },
   ];
 
