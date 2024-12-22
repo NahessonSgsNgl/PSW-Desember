@@ -6,206 +6,136 @@ const Bab4 = () => {
   const navigate = useNavigate();
   return (
     <div className="bab4-container">
-      <h1>Bab 4: Sistem Sirkulasi dan Pertukaran Zat</h1>
+      <h1>Bab 4: Reproduksi Sel</h1>
 
       <section>
-        <h2>1. Peran Sistem Sirkulasi dalam Transpor dan Pertukaran Zat</h2>
-
-        <h3>a. Struktur Pembuluh Darah</h3>
+        <h2>1. Pengertian Reproduksi Sel</h2>-
         <p>
-          Pembuluh darah adalah saluran khusus yang mengangkut berbagai 
-zat ke seluruh tubuh manusia. Organ-organ tempat terjadinya 
-pertukaran zat, seperti usus halus, paru-paru, dan ginjal memiliki 
-jumlah pembuluh darah yang lebih banyak. 
+        Reproduksi sel adalah proses yang terjadi dalam semua bentuk kehidupan dan yang menjamin keabadian keberadaannya, serta pertumbuhan, penggantian jaringan, dan reproduksi pada makhluk multiseluler.<br />
+
+
+Sel adalah unit dasar dari semua kehidupan yang diketahui. Masing-masing dari mereka, seperti makhluk hidup, memiliki waktu hidup, di mana mereka tumbuh, matang dan kemudian mereproduksi, melalui berbagai mekanisme biologis yang memungkinkan pembentukan sel-sel baru, mereplikasi informasi genetik dan memungkinkan siklusya kembali ke awal.
+<br /> Reproduksi sel terjadi hingga pada titik tertentu dalam kehidupan makhluk hidup, sel-selnya berhenti bereproduksi (atau melakukannya secara efisien) dan mulai menua.
+
+Tetapi sampai itu terjadi, reproduksi sel memiliki tujuan meningkatkan jumlah sel yang ada dalam suatu organisme. Dalam kasus organisme bersel tunggal, reproduksi sel membuat organisme yang sama sekali baru. Reproduksi sel umumnya terjadi ketika ukuran sel telah mencapai ukuran dan volume tertentu, yang biasanya mengurangi efektivitas proses transportasi nutrisinya dan, dengan demikian, pembagian individu jauh lebih efektif.<br /> Pembagian Reproduksi Sel (Pembelahan Sel), terdiri dari:
+        </p>
+        <h3>a. Pembelahan Secara Langsung (Amitosis)</h3>
+        <p>
+        Pada proses pembelahan sel secara langsung tidak terjadi fase-fase pembelahan, sehingga setiap sel akan langsung membelah menjadi 2 sel anak. Pembelahan sel secara langsung disebut dengan pembelahan amitosis. Pembelahan secara langsung ini dapat terjadi pada bakteri maupun berbagai organisme uniseluller lainnya, contohnya amoeba.
  </p>
-        <img src="bab4.1.png" alt="Struktur Pembuluh Darah" className="section-image" />
-        <p>
-          <strong>Usus Halus:</strong> Memiliki banyak pembuluh kapiler dan pembuluh lakteal (limfa) untuk penyerapan zat makanan.
-        </p>
-        <p>
-          <strong>Paru-paru:</strong> Alveolus di paru-paru berlekatan dengan pembuluh kapiler untuk pertukaran gas.
-        </p>
-        <p>
-          <strong>Ginjal:</strong> Pertukaran zat terjadi saat zat sisa metabolisme dikeluarkan dari kapiler menuju nefron ginjal.
-        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Amitosis_.png/250px-Amitosis_.png" className="section-image" />
+        
 
-        <h3>b. Komponen Darah dalam Mengangkut Zat</h3>
+        <h3>b. Pembelahan Secara Tidak Langsung</h3>
         <p>
-        Darah sebagai bagian dari sistem sirkulasi merupakan jaringan 
-          ikat khusus berwujud cairan dengan beragam komponen terlarutnya. 
-          Komponen darah terdiri dari plasma dan sel darah. Darah menjadi 
-          media utama pengangkut berbagai zat di dalam tubuh, disamping fungsi 
-          fisologis lainnya seperti pengaturan suhu tubuh dan sistem pertahanan 
-          tubuh. Baik komponen sel darah maupun plasma, keduanya menjadi 
-          media pengangkut zat ke seluruh tubuh.
+        Pada proses pembelahan sel secara tidak langsung terjadi fase-fase pembelahan sel didalamnya, sehingga setiap sel akan langsung membelah menjadi 2 sel anak.
           </p>
-        <ul>
-          <li>
-            <strong>Sel darah merah (eritrosit):</strong> Mengangkut oksigen dan karbon dioksida dengan hemoglobin yang mengandung zat besi.
-          </li>
-          <li>
-            <strong>Plasma darah:</strong> Membawa zat makanan, hormon, dan sisa metabolisme. Cairan infus digunakan untuk pasien karena memiliki komposisi yang mirip plasma darah.
-          </li>
-        </ul>
+        
         <img src="bab4.2.png" alt="Komponen Darah" className="section-image" />
       </section>
 
       <section>
-        <h2>2. Struktur Pendukung Penyerapan Zat Makanan</h2>
+        <h2>2. Tujuan Reproduksi Sel</h2>
         <p>
-          Zat makanan merupakan molekul penting yang diperlukan hampir 
-          setiap sel tubuh sebagai bahan baku metabolisme. Sebagai makhluk 
-          hidup heterotrof, manusia memperoleh zat makanan lewat proses 
-          pencernaan makanan di dalam saluran pencernaan. Dengan demikian, 
-          mekanisme pertukaran zat makanan terjadi antara saluran pencernaan 
-          dengan sistem sirkulasi dan sel-sel seluruh tubuh.
-          Saluran pencernaan mengalami penyesuaian struktur untuk 
-          mendukung pertukaran zat. Untuk memperluas bidang pertukaran 
-          zat, dinding bagian dalam usus halus berlipat-lipat membentuk jonjot 
-          (villi). Selain itu, permukaan sel epitel dinding usus juga membentuk 
-          lipatan mikroskopik yang disebut mikrovilli. Setelah diserap sel epitel, 
-          zat makanan kemudian akan diangkut oleh sistem sirkulasi. Oleh 
-          karena itu, pada setiap jonjot usus, tepatnya di lapisan jaringan ikat, 
-          Kalian dapat menemukan banyak pembuluh darah dan limfa.
+        Tujuan dari reproduksi sel yang paling utama adalah sebagai alat untuk mengembangbiakkan dari setiap organisme multiseluler. Dengan adanya reproduksi sel akan menghasilkan suatu pembelahan sel, sehingga akan terjadi pertumbuhan serta perkembangan organisme. Selain itu, setiap reproduksi sel bisa juga menhasilkan sel-sel gamet yang berfungsi untuk melakukan reproduksi sel secara genetik.
 </p>
-        <img src="bab4.3.png" alt="Struktur Penyerapan Makanan" className="section-image" />
       </section>
 
       <section>
-        <h2>3. Struk tur Pendukung Pertukaran Gas</h2>
+        <h2>3. Macam-macam Reproduksi Sel</h2>
         <p>
-                  selain memerlukan zat makanan sebagai bahan baku, metabolisme sel 
-          mengonsumsi oksigen dan memproduksi gas karbondioksida. Oksigen 
-          diperlukan dalam metabolisme sel sehingga ditranspor ke dalam tubuh, 
-          sedangkan karbon dioksida sebagai gas sisa metabolisme ditranspor 
-          ke luar tubuh. Proses pertukaran kedua gas ini melibatkan sistem 
-          sirkulasi dan sistem pernapasan.
-          Pertukaran gas pada saluran pernapasan manusia terjadi pada alveolus 
-          paru-paru. Alveolus berbentuk kantung berlipat yang tersusun atas 
-          selapis sel epitel berbentuk pipih. Struktur alveolus tersebut membuat 
-          permukaan jaringan menjadi lebih tipi dan luas. Difusi gas juga makin 
-          dimudahkan dengan diproduksinya cairan surfaktan.Cairan ini akan 
-          melapisi permukaan alveolus sehingga tetap lembap dan memudahkan 
-          proses difusi. Sementara itu, untuk mencegah terjadinya infeksi dan 
-          gangguan lainnya akibat kuman dan kotoran yang terbawa bersama 
-          udara pernapasan, sel darah putih dari jenis makrofag banyak tersebar 
-          di alveolus. Makrofag bersifat amoeboid, artinya sel ini dapat 
-          membentuk banyak penjuluruan sitoplasma (kaki semu) guna 
-          menangkap kuman dan kotoran yang masuk ke alveolus, untuk 
-          kemudian dihancurkannya
+        Berikut ini penjelasan lebih lengkap tentang macam-macam reproduksi sel:
+
 </p>
-        <img src="bab4.4.png" alt="Struktur Pertukaran Gas" className="section-image" />
+       <h3>1. Pembelahan Mitosis</h3>
+        <img src="https://storage.googleapis.com/wordpress-news/2020/09/477beca5-pengertian-dan-kategori-reproduksi-sel-yang-perlu-kamu-ketahui.jpg" alt="Struktur Pertukaran Gas" className="section-image" />
+        <p>
+        Mitosis adalah bentuk pembelahan sel yang paling umum dari sel eukariotik. Dalam proses ini, sel mereplikasi bahan genetiknya sepenuhnya, menggunakan metode pengorganisasian kromosom di wilayah khatulistiwa inti sel, yang kemudian membelah menjadi dua, menghasilkan dua kembar identik. Sisa sel kemudian mulai menggandakan dan perlahan-lahan membelah sitoplasma, sampai membran plasma akhirnya membagi dua sel anak baru menjadi dua.<br /><br />
+        Hasil yang dihasilkan akan identik secara genetik dengan induknya. Mereka berkembang biak melalui proses yang disebut mitosis, yang merupakan bentuk paling umum dari replikasi sel. Mitosis dapat terjadi ketika area tubuh berkembang, ketika sel-sel tua diganti atau ketika area tubuh menjadi rusak atau terluka. Fase/tahapan pembelahan mitosis terbagi menjadi 4, diantaranya:<br /><br />
+        a. Profase<br />
+        Tahap pertama dalam pembelahan mitosis. Pada fase ini, terjadi beberapa tahapan dalam sel, yaitu Benang-benang kromatin yang ada di dalam inti sel berkondensasi membentuk kromosom. Membran inti pecah diikuti menghilangnya nukleolus (anak inti).<br />
+        Kromosom mulai terlihat menebal dan memendek. Kromosom menggandakan diri menjadi sepasang kromatid. Sentriol membelah diri dan bergerak menuju arah kutub yang berlawanan. Di sekeliling sentriol mulai terbentuk benang spindel, sehingga mirip dengan bentuk bintang yang dinamakan aster.<br />
+        Benang Spindel merupakan bagian dari kromosom yang berfungsi menggerakkan kromosom saat proses pembelahan sel sedang dimulai. Pada tahap berikutnya, benang spindel menghubungkan kromosom dengan kutub sel melalui sentromer, ada juga yang menghubungkan antar kutub sel. Catatan: Sentriol tidak terbentuk pada sel  tumbuhan, melainkan hanya terbentuk pada sel hewan.<br/> <br/>
+        b.Metafase<br/>
+        Tahap ini dimulai dengan Metafase Sentriol yang telah berada di kutub sel, dimana Benang-benang spindel terlihat semakin jelas. Kemudian, benang-benang spindel mengikat sentromer dari masing-masing kromosom. Kromosom mengatur diri pada bidang ekuatorial yaitu suatu bidang yang terletak diantara dua kutub sel. Pada tahap ini, biasanya kromosom berbentuk seperti huruf V.<br/><br/>
+        c.Anafase<br/>
+        Fase ini dimulai dengan beberapa tahap yaitu Anafase Kromatid yang saling berpisah satu sama lain dari bagian sentromer kromosom. Masing-masing kromatid mengandung sentromer. Benang-benang spindel memendek, sehingga masing-masing kromatid tertarik serta bergerak mengarah ke kutub yang berlawanan.<br/><br/>
+        d. Telofase<br/>
+        Merupakan tahap akhir dari pembelahan inti. Telofase ditandai dengan beberapa tahap seperti benang-benang spindel yang menghilang.<br/>
+        Setelah kromatid-kromatid sampai di tiap-tiap kutub, bentuknya kemudian berubah menjadi sama. Membran inti mulai terbentuk dan melingkupi kromatid-kromatid pada tiap-tiap kutub.<br/>
+        Kromatid menjadi samar dan nukleolus mulai tampak. Aster (sentriol yang dikelilingi benang-benang spindel) menghilang. Sitoplasma mengalami penebalan dan  membelah menjadi 2 sel anak (sitokinesis). Pada telofase, dihasilkan 2 sel dengan kromosom diploid, Grameds.<br/><br/>
+        </p>
+        <h3>2. Pembelahan Meiosis</h3>
+        <img src="https://storage.googleapis.com/wordpress-news/2020/09/7252bcb1-pengertian-dan-kategori-reproduksi-sel-yang-perlu-kamu-ketahui-4.jpg" alt="Struktur Pertukaran Gas" className="section-image" />
+        <p>
+        Meiosis adalah proses yang berbeda dari reproduksi sel yang khusus dilakukan oleh organ reproduksi. Hasil meiosis adalah gamet pria maupun sel telur wanita, yang merupakan sel-sel yang menggabungkan selama konsepsi. Pada laki-laki, gamet – atau sel sperma – mengandung bahan kromosom yang diwariskan kepada keturunannya.<br/><br/>
+        Dan sementara sel-sel tubuh membawa total 46 kromosom, sel-sel gamet hanya membawa 23 kromosom. Seorang laki-laki dewasa muda yang sehat akan menghasilkan beberapa ratus juta sel gamet setiap hari. Pada wanita, sel kelamin atau ovum perkembangan mengikuti proses yang panjang, mulai bulan kelima setelah perempuan dikandung. Meiosis dimulai pada tahap ini, tapi berhenti pada prekursor telur tahap sel – atau oosit primer – selama perkembangan janin.<br/><br/>
+        Setelah mencapai pubertas perempuan, sekresi hormon memicu produksi satu atau lebih sel telur per bulan. Setelah beberapa waktu, oosit sekunder, yang merupakan telur matang, dilepaskan dari ovarium. Proses meiosis lengkap pada wanita tidak benar-benar terjadi sampai telur dibuahi oleh gamet.<br/><br/>
+        <ul>
+          <li>Variasi genetik melalui distribusi acak pada tahap metafase I – Ketika tahap metafase I berlangsung, pasangan kromosom homolog secara acak mengatur diri pada bidang ekuator. Setiap pasangan kromosom membawa ciri-ciri umum sama, akan tetapi secara rinci pasangan kromosom ini membawa ciri-ciri yang berbeda. Pemasangan secara bebas dan penyebaran secara acak pada kromosom ini akan membentuk kombinasi genetik baru.</li>
+          <li>Produksi serta penggabungan sel-sel gamet (haploid) – Variasi genetik bisa dihasilkan melalui perkembangbiakan seksual atau percampuran secara genotif dari induk-induk mereka. Pada sel-sel kelamin terdapat setengah jumlah kromosom sel induk, sehingga memungkinkan terjadinya penggabungan sifat di antara sel sperma dengan sel ovum.</li>
+          <li>Variasi genetik melalui pindah silang di antara kromosom homolog Ketika tahap profase I berlangsung, bagian yang sama dari homolog mungkin berubah. Melalui cara ini bisa dihasilkan pemisahan gen-gen yang terpaut (lingked) dan kombinasi genetik.</li>
+        </ul><br/><br/>
+        </p>
+        <h3>3. Pembelahan Amitosis</h3>
+        <p>
+        Proses pembelahan secara langsung disebut juga pembelahan amitosis atau pembelahan biner. Pembelahan biner banyak dilakukan organisme uniseluler, seperti bakteri, protozoa, dan mikroalga. Setiap terjadi pembelahan biner, satu sel akan membelah menjadi dua sel yang identik (sama satu sama lain). Pembelahan biner dimulai dengan pembelahan inti sel menjadi dua, kemudian diikuti pembelahan sitoplasma. Akhirnya, sel terbelah menjadi dua sel anakan.<br/><br/>
+        Pembelahan biner pada organisme prokariotik terjadi pada bakteri. DNA bakteri terdapat pada daerah yang disebut nukleoid. DNA pada bakteri relatif lebih kecil dibandingkan dengan DNA pada sel eukariotik. DNA pada bakteri berbentuk tunggal, panjang dan sirkuler sehingga tidak perlu dikemas menjadi kromosom sebelum pembelahan. Selain pada bakteri, pembelahan biner juga dijumpai pada organisme eukariot,yaitu pada Protozoa. Pada beberapa protozoa, benang-benang spindle terdapat di dalam inti, tidak dijumpai adanya sentriol.<br/><br/>
+        Pembelahan biner dijumpai pada Protozoa, seperti Euglena sp (Flagellata), Paramaecium sp (Ciliata), dan Arcella sp (Sarcodina). Salah satu pembelahan pada protozoa adalah pada Euglena.
+
+Pada umumnya, Euglena berkembang biak secara aseksual dengan pembelahan biner membujur. Pada mulanya membelah menurut poros bujur.<br/><br/>
+Selnya yang mempunyai 2 bulu cambuk dan kloroplas yang berbentuk piala serta mengandung pirenoid. Sebelum membelah, pirenoid melebar melintang dan kedua bulu cambuknya saling berjauhan. Pirenoid dan kloroplas lalu mengadakan lekukan dan selnya akan membelah menjadi dua individu baru yang masing-masing dengan satu bulu cambuk disertai dengan pembentukan stigma.
+        </p>
+        <h3>4. Gametogenesis</h3>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLnW81o9drOgyb2KwZ5CkJLTlXQ9HzmKqW8bf0LFY-2KstaDaFdXY9yiZTxQIr3jkrWb5Yj7n76HasCJtc6jtWQVQz2GCKCeg8dyibmruTMGygszgWoQpU8MrdLnNyuYEP34KVxjVjgE2F/s583/gametogenesis.jpg" alt="Struktur Pertukaran Gas" className="section-image" />
+        <p>
+        Proses pembentukan gamet disebut gematogenesis, yang berlangsung secara meiosis (pematangan), yaitu perkembangan dari hasil akhir meiosis yang tidak langsung menjadi gamet. Di bagian muka telah disinggung bahwa gametogenesis berlangsung di alat-alat kelamin baik pada  tumbuhan maupun hewan.<br/><br/>
+        Gametogenesis dibedakan menjadi dua yaitu spermatogenesis (pembentukan sperma) dan oogenesis (pembentuikan ovum). Secara prinsip keduanya melalui cara pembelahan yang sama, namun hasil akhirya berbeda.<br/><br/>
+        </p>
+        <h3>5. Spermatogenesis</h3>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsfkh30iqM5ifKZJnkSPUaiVTc-Hr_n4nGA&s" alt="Struktur Pertukaran Gas" className="section-image" />
+        <p>
+        Proses ini berlangsung dalam alat kelamin jantan, pada hewan disebut testis terdapat bagian yang disebut tubulus seminiferus.
+
+Pada bagian tersebut terdapat sel-sel primordial yang bersifat tersebut berulang kali mengalami pembelahan secara mitosis, di antaranya membentuk spermatogonium yang dianggap sebagai induk sperma.<br/><br/>
+Spermatogonium bersifat diploid (2n), dalam pertumbuhannya spermatogonium membentuk sel spermatosit primer yang bersifat diploid pula, kemudian sel ini akan melakukan meiosis. Pada meiosis I, dihasilkan dua sel anakan yang bersifat haploid.
+
+
+
+Pada meiosis II, setiap sel tersebut menghasilkan dua sel anakan, hingga pada meiosis II terbentuk empat sel anakan yang disebut spermatid. Spermatid bersifat haploid, yang dalam pertumbuhannya mengalami maturasi membentuk spermatozoon.<br/><br/>
+Sel spermatid dilengkapi dengan ekor sehingga spermatozoon dapat bergerak bebas bila berada pada medium cair. Hasil akhir dari spermatozoon (jamak: spermatozoa) fungsional dari satu sel induk yang mengalami meiosis.<br/><br/>
+
+        </p>
+        <h3>6. Oogenesis</h3>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuzk6YmxEKn0R27b0UNLqeXbEOuc7JWKOQg&s" alt="Struktur Pertukaran Gas" className="section-image" />
+        <p>
+        Oogenesis berlangsung dalam ovarium hewan atau kandung lembaga dalam bakal biji pada tumbuhan berbiji (gametofit betina). Sel primordial (asal) dalam ovarium yang bersifat diploid ialah oogonium, dalam pertumbuhannya terbentuk oosit primer yang bersifat diploid.<br/><br/>
+        Sel ini mengalami meiosis I sehingga terbentuk dua sel anakan, yang satu selnya kecil disebut badan kutub primer. Keduanya bersifat haploid karena telah terjadi reduksi pada kromosom.
+
+Kedua sel ini mengalami meiosis II. Pada sel oosit sekunder juga dihasilkan dua sel anakan, yang satu kecil di sebut sel badan kutub, yang satu lagi ootid yang berlangsung pada meiosis I juga berlangsung pada meiosis II, dan hasil anakan berupa dua sel badan kutub.<br/><br/>
+Namun sel badan kutub mengalami degenerasi dalam perkembangannya hingga akhirnya mati, sedangkan ootid mengalami perkembangan menjadi ovom. Dengan demikian pada oogenesis, satu induk akhirnya membentuk satu ovum yang fungsional dan tiga sel badan kutub yang tidak fungsional (tidak terlibat dalam pembuahan).
+
+
+Dalam mempelajari sel makhluk hidup, Grameds juga dapat melihatnya melalui pendekatan aplikatif, dimana pada buku Biologi Sel: Pendekatan Aplikatif Untuk Profesi Kesehatan ini menyajikan pemahaman konsep biologi khususnya terhadap organet sebagai organ serta kehidupan di dalam sel yang hidup.<br/><br/>
+
+        </p>
+
       </section>
 
       <section>
-        <h2>4. Struktur Pendukung Pembuangan Sisa Metabolisme</h2>
+        <h2>4. Contoh Sel yang Mengalami Pembelahan Mitosis dan Meiosis</h2>
         <p>
-                  Proses metabolisme tubuh memerlukan zat makanan dan oksigen 
-          sebagai komponen bahan bakunya. Zat makanan berupa senyawa 
-          organik, yaitu karbohidrat, protein, lemak, dan lainnya. Reaksi 
-          metabolisme juga menghasilkan zat sisa yang harus dibuang karena 
-          dapat berbahaya bagi kesehatan jika terakumulasi dalam tubuh. Zat 
-          sisa metabolisme berupa gas karbon dioksida dikeluarkan melalui 
-          paru-paru, sedangkan sisa metabolisme berupa amonia akan diubah 
-          menjadi urea di hati, diangkut dalam plasma darah, hingga dikeluarkan 
-          bersama urin di ginjal. 
-          Ginjal sebagai organ utama sistem ekskresi terhubung dengan 
-          saluran pembuluh darah. Nefron yang merupakan unit dasar 
-          ekskresi pada ginjal tediri atas glomerulus dan tubulus (saluran) yang 
-          bersinggungan secara langsung dengan pembuluh darah.
+        Pembelahan mitosis dan meiosis dilakukan oleh seluruh organisme yang memiliki susunan sel-sel.  Tumbuhan, hewan, dan manusia adalah makhluk hidup yang mengalami proses tersebut. Proses pembelahan sel dilakukan untuk membentuk sel baru, sel inilah yang akan membentuk jaringan hingga organ-organ.<br/><br/>
+        Namun, sel-sel ini memiliki usia yang dapat mati, seperti contohnya sel darah merah yang hanya bertahan hidup selama 120 hari. Hal ini lah yang menyebabkan mengapa proses pembelahan sel harus dilakukan oleh sel-sel untuk mengganti sel yang mati atau rusak.<br/><br/>
+        Terlebih pada organisme yang telah dewasa, mereka harus memiliki jumlah sel konstan. Perlu diketahui jika jumlah sel berkurang, akan menyebabkan penyakit dalam tubuh makhluk hidup yang bersangkutan. Ini sangat penting bagi berlangsungnya kehidupan oraganisme. Misalnya, perempuan dewasa memiliki jumlah sel darah merah sekitar 4 – 5 juta dalam satu mikroliter darah. Jika jumlah berlebihan maka akan menyebabkan tumor.<br/><br/>
+        Secara singkatnya pembelahan mitosis merupakan proses pembelahan yang dilalui oleh beberapa fase. Alur pembelahannya dimulai dari fase protase, matafase, anafase dan telofase. Proses ini terjadi pada sel somatik, dengan tujuan untuk pertumbuhan, regenerasi dada dan penutupan luka. Hasil dari pembelahan mitosis berupa dua anakan yang sifatnya persis dengan iduknya.<br/><br/>
+        Mitosis terjadi di sel somatik, sel tubuh baik  tumbuhan, hewan, maupun manusia. Contohnya terjadi pada sel akar, sel batang, sel daun, sel kulit, sel hati, sel epitel, dan sel somatik lainnya. Berbeda dengan pembelahan mitosis, pembelahan sel meiosis melalui tahap yang lebih kompleks. Di mana terjadi 2 kali pembelahan sel yaitu Meiosis I dan Meiosis II, pada prosesnya tidak terjadi fase interfase. Secara singkatnya pembelahan mitosis merupakan proses pembelahan yang dilalui oleh beberapa fase. Alur pembelahannya dimulai dari fase protase, matafase, anafase dan telofase.<br/><br/>
+        Proses ini terjadi pada sel somatik, dengan tujuan untuk pertumbuhan, regenerasi dada dan penutupan luka. Hasil dari pembelahan mitosis berupa dua anakan yang sifatnya persis dengan iduknya. Mitosis terjadi di sel somatik, sel tubuh baik tumbuhan, hewan, maupun manusia. Contohnya terjadi pada sel akar, sel batang, sel daun, sel kulit, sel hati, sel epitel, dan sel somatik lainnya. Berbeda dengan pembelahan mitosis, pembelahan sel meiosis melalui tahap yang lebih kompleks. Di mana terjadi 2 kali pembelahan sel yaitu Meiosis I dan Meiosis II, pada prosesnya tidak terjadi fase interfase.<br/><br/>   
           </p>
-        <img src="bab4.5.png" alt="Struktur Ginjal" className="section-image" />
+    
       </section>
 
-      <section>
-        <h2>B. Proses Pertukaran dan Transpor Zat</h2>
-
-        <h3>1. Proses Penyerapan Zat Makanan</h3>
-        <p>
-        Proses penyerapan zat makanan di usus halus bukanlah proses 
-        yang berdiri sendiri. Sebelum dapat diserap, makanan yang umumnya 
-        berupa molekul besar, seperti karbohidrat, protein, dan lemak akan 
-        dipecah secara mekanik (dengan dikunyah) dan kimiawi (dihidrolisis 
-        oleh enzim). Pemecahan ini disebut proses pencernaan. Adapun bahan 
-        makanan yang lebih kecil partikelnya (mineral dan air) dapat langung 
-        diserap tanpa melalui proses pencernaan.
-        Setelah menjadi partikel yang lebih kecil, zat makanan akan diserap 
-        di sepanjang dinding usus halus. Metode penyerapan ini berbeda-beda 
-        sesuai dengan jenis molekul makanannya. Zat makanan yang bersifat 
-        larut air (hidrofilik), seperti glukosa dan asam amino akan diserap 
-        oleh sel epitel baik secara pasif (difusi berfasilitas) maupun aktif 
-        (ko-transport menggunakan energi). Zat makanan yang bersifat larut air (hidrofilik), seperti glukosa dan asam amino akan diserap 
-        oleh sel epitel baik secara pasif (difusi berfasilitas) maupun aktif 
-        (ko-transport menggunakan energi). Zat makanan yang bersifat 
-        hidrofilik ini kemudian ditransfer ke pembuluh darah untuk diedarkan 
-        ke seluruh tubuh. 
-        Sementara itu, zat makanan yang bersifat tidak larut air (hidrofobik), 
-        khususnya lipid dan turunannya, akan dapat dengan mudah diserap 
-        oleh sel epitel usus. Hal ini mengingat membran sel sebagian besar 
-        disusun oleh molekul lipid tepatnya fosfolipid. Asam lemak dan gliserol 
-        yang hidropobik akan diserap secara difusi ke dalam sel epitel usus 
-        untuk kemudian ditransfer ke pembuluh limfa.
-</p>
-        <img src="bab4.6.png" alt="Penyerapan Zat Makanan" className="section-image" />
-
-        <h3>2. Proses Pertukaran Gas di Paru-Paru</h3>
-        <p>
-        Pertukaran gas di dalam paru-paru terjadi secara difusi sebagai akibat 
-adanya perbedaan konsentrasi gas. Dalam kondisi normal, ruang 
-alveolus paru-paru berisi udara dengan konsentrasi oksigen yang 
-lebih tinggi dari kadar gas tersebut di pembuluh darah, maka oksigen 
-berdifusi masuk ke darah. Sementara karbon dioksida berada dalam 
-kondisi yang sebaliknya.
-Pertukaran gas di paru-paru tidak akan terjadi tanpa adanya 
-pengangkutan gas oleh darah. Sebagian besar gas oksigen diangkut 
-di dalam darah dengan diikat oleh hemoglobin, membentuk 
-oksihemoglobin(HbO2
-). Saat berada di jaringan yang memiliki kadar 
-oksigen rendah, oksihemoglobin akan melepaskan oksigennya 
-sehingga oksigen dapat berdifusi ke dalam sel-sel yang membutuhkan. 
-Sementara itu, hemoglobin hanya mengikat sedikit karbon dioksida 
-membentuk karbominohemoglobin (HbCO2
-). Sebagian besar karbon dioksida diangkut sebagai asam karbonat 
-sebagai hasil reaksi dengan air. Reaksi ini dikatalis oleh enzim 
-karbonat anhidrase yang ada dalam sel darah merah. Sebagian kecil 
-karbon dioksida juga diangkut sebagai gas terlarut di plasma darah. 
- </p>
-        <img src="bab4.7.png" alt="Pertukaran Gas" className="section-image" />
-
-        <h3>3. Proses Pembentukan Urin di Ginjal</h3>
-        <p>
-        Proses pertukaran zat di ginjal dapat kita temukan pada tahapan 
-pembentukan urin. Pertukaran zat secara bertahap dalam pembentukan 
-urin secara efektif dapat membuang sampah metabolisme sekaligus 
-mengembalikan zat-zat yang masih diperlukan tubuh. Kedua proses 
-tersebut dapat berlangsung bersamaan karena proses pertukaran zat 
-di ginjal yang adaptif, menyesuaikan dengan perubahan kondisi tubuh 
-terutama kadar air dan zat sisa metabolisme.</p>
-        <img src="bab4.8.png" alt="Pembentukan Urin" className="section-image" />
-      </section>
-
-      <section>
-        <h2>C. Kelainan pada Pertukaran dan Transpor Zat</h2>
-        <p>
-                  Kondisi tubuh yang sehat hasil dari proses fisiologi yang berjalan 
-          baik. Namun demikian, kondisi sehat tidak selalu terjadi. Gangguan 
-          dan kelainan dapat terjadi baik karena faktor internal (contohnya, 
-          penyakit genetik atau keturunan) maupun eksternal (contohnya, infeksi 
-          mikroorganisme). Sejumlah masalah kesehatan berkaitan langsung 
-          dengan terganggunya proses pertukaran dan transpor zat di dalam 
-          tubuh. Oleh karena itu, penting untuk selalu melakukan pengukuran 
-          indikator-indikator kondisi tubuh, baik dengan pendekatan teknologi 
-          manual maupun digital.
-          Peradangan (inflamasi) merupakan gejala kelainan jaringan yang 
-          sering terjadi pada organ tubuh, termasuk organ pertukaran zat. 
-          Peradangan terjadi akibat respons imun untuk memperlancar mobilitas 
-          sel darah putih pada jaringan yang terinfeksi. Peradangan ditandai 
-          dengan pembengkakan (tumor), memerah (rubor), timbul nyeri (dolor), 
-          dan peningkatan suhu (kalor) pada jaringan. Kondisi ini menyebabkan 
-          fungsi jaringan yang mengalami peradangan akan terganggu, termasuk 
-          fungsi dalam mengatur pertukaran zat</p>
-        <img src="bab4.9.png" alt="Kelainan Pertukaran Zat" className="section-image" />
-      </section>
+     
       <div className="bottom-container">
         <h2>"Yuk, uji pemahamanmu dengan latihan soal! <br/>
         Siap mulai?"</h2>
